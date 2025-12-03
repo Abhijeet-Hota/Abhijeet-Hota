@@ -1,6 +1,5 @@
 
 Hi, I’m Abhijeet Hota 👋
-[
 
 🚀 About Me
 🔭 I’m currently working on Full Stack Web Development Projects involving React and Node.js
@@ -19,7 +18,8 @@ Hi, I’m Abhijeet Hota 👋
 
 🛠️ Skills & Technologies
 Programming Languages	Web / Backend	DevOps / Tools	Other Interests
-Java, Python	React, Node.js, MySQL	Docker, Git, CI/CD	AI/ML, Open Source
+Java, Python	React, MySQL, Git
+
 🔭 Projects & Highlights
 Project	Description	Technologies / Tools Used
 Hotel Management	Developed responsive user interface components using React and Vite for optimized performance and seamless user experience.	React, Vite, JavaScript
@@ -27,8 +27,7 @@ E-commerce	Created a responsive and component-based frontend application focusin
 View more of my projects in the Repositories tab.
 
 🌐 Connect with me
-[https://www.linkedin.com/in/abhijjet/
-[
-[
+https://www.linkedin.com/in/abhijjet/
+
 
 Thanks for visiting! 😊
