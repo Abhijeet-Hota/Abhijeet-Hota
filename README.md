@@ -8,7 +8,7 @@ Hi, I’m Abhijeet Hota 👋
 
 👯 I’m looking to collaborate on Open Source and Scalable Web Application projects
 
-🤔 I’m seeking help with Expanding backend knowledge and cloud deployments
+🤔 I’m seeking help with Expanding Front-End knowledge and cloud deployments
 
 💬 Ask me about React, Java, MySQL, and full stack development practices
 
