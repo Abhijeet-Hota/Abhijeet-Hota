@@ -2,7 +2,7 @@
 Hi, I’m Abhijeet Hota 👋
 
 🚀 About Me
-🔭 I’m currently working on Full Stack Web Development Projects involving React and Node.js
+🔭 I’m currently working on Web Development Projects involving Java, React, Python, MySQL 
 
 🌱 I’m currently learning Advanced React, API Integration, and DevOps tools
 
