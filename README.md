@@ -17,8 +17,8 @@ Hi, I’m Abhijeet Hota 👋
 ⚡ Fun fact: I love building fast, scalable, and user-friendly web applications
 
 🛠️ Skills & Technologies
-Programming Languages	Web / Backend	DevOps / Tools	Other Interests
-Java, Python	React, MySQL, Git
+Programming Languages	Web / Front-End development / Tools	Other Interests
+Java, Python,React, MySQL, Git, GitHub
 
 🔭 Projects & Highlights
 Project	Description	Technologies / Tools Used
